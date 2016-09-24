@@ -1,0 +1,18 @@
+{
+  "name": "test-crud",
+  "authors": [
+    "Kevin Hernandez <kevinah95@gmail.com>"
+  ],
+  "description": "crud test",
+  "main": "server.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
